@@ -1,16 +1,21 @@
-## Hi there 👋
+# Stylianos Fragkiadakis
 
-<!--
-**sfragkiadakhs/sfragkiadakhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Engineer focusing on backend development and containerized environments.  
+Interested in building reliable systems and improving my skills through hands‑on projects.  
+Based in Germany.
 
-Here are some ideas to get you started:
+## Interests
+- Backend development with C#/.NET  
+- Linux environments and automation  
+- REST APIs and clean backend architecture  
+- Distributed systems fundamentals  
+- Real‑time communication (WebSockets, WebRTC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- C#/.NET ecosystem  
+- Linux administration  
+- Docker and container workflows  
+- CI/CD fundamentals  
+- German language (B1 → B2)
+
+Heidenheim an der Brenz, Germany
