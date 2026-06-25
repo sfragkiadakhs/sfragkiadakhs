@@ -1,21 +1,21 @@
 # Stylianos Fragkiadakis
 
-Junior Software Engineer focusing on backend development and containerized environments.  
-Interested in building reliable systems and improving my skills through hands‑on projects.  
+Junior Software Engineer learning backend development and modern tooling.  
+I enjoy building small projects, experimenting, and improving step by step.  
 Based in Germany.
 
 ## Interests
-- Backend development with C#/.NET  
-- Linux environments and automation  
-- REST APIs and clean backend architecture  
-- Distributed systems fundamentals  
-- Real‑time communication (WebSockets, WebRTC)
+- C#/.NET backend basics  
+- Linux and simple automation  
+- REST APIs  
+- Docker and container workflows  
+- LLMs and vector search (LLM Zoomcamp)
 
 ## Currently Learning
 - C#/.NET ecosystem  
 - Linux administration  
-- Docker and container workflows  
-- CI/CD fundamentals  
+- Docker & CI/CD fundamentals  
+- LLM engineering (Zoomcamp)  
 - German language (B1 → B2)
 
 Heidenheim an der Brenz, Germany
