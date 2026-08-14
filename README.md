@@ -1,9 +1,8 @@
 # Stylianos Fragkiadakis
 
-Junior Software Engineer learning backend development and modern tooling.  
-I enjoy building small projects, experimenting, and improving step by step.  
-Based in Germany.
-Previously worked ~2 years as an NLP/Backend Developer (Rasa, Docker, REST APIs) before relocating to Germany.
+Backend Developer with ~2 years of professional experience building conversational AI backends (Python, Rasa, Docker, REST APIs).
+Currently based in Germany, continuing to build small projects and deepen my skills in backend systems and data tooling.
+Open to junior/mid backend and data-focused roles.
 
 ## Interests
 - C#/.NET backend basics  
