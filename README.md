@@ -3,6 +3,7 @@
 Junior Software Engineer learning backend development and modern tooling.  
 I enjoy building small projects, experimenting, and improving step by step.  
 Based in Germany.
+Previously worked ~2 years as an NLP/Backend Developer (Rasa, Docker, REST APIs) before relocating to Germany.
 
 ## Interests
 - C#/.NET backend basics  
