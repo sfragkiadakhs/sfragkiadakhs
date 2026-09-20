@@ -1,23 +1,24 @@
 # Stylianos Fragkiadakis
 
-Software Developer with ~2 years of professional experience building conversational AI backends (Python, Rasa, Docker, REST APIs).
-Currently based in Germany, continuing to build small projects and deepen my skills in backend systems and data tooling.
-Open to junior/mid backend and data-focused roles.
+Software developer (BEng Informatics Engineering) based in Heidenheim an der Brenz, Germany.
+About two years of professional experience building production conversational AI assistants
+for enterprise and public-sector clients (Python, Rasa, Docker, API integrations).
+Open to **junior backend, database and API-driven roles** in Germany.
 
-**Note:** 2022-2024 professional backend/NLP experience, followed by military service and a relocation to Germany; since 2025 I've stayed technical through personal projects and continuous learning while completing my German studies, and I'm now actively looking for backend/data developer roles.
+**Languages:** English (C1) · German (B1, B2 in progress) · Greek (native)
 
-## Interests
-- C#/.NET backend basics
-- Linux and simple automation
-- REST APIs
-- Docker and container workflows
-- LLMs and vector search (LLM Zoomcamp)
+## Featured projects
+- **[Coffee Assistant](https://github.com/sfragkiadakhs/coffee-assistant)**: RAG chatbot with hybrid search,
+  evaluation (Hit Rate, MRR, LLM judge), PostgreSQL logging, Grafana monitoring and Docker Compose.
+  [Live demo](https://coffee-assist.streamlit.app/)
+- **[APIwithCRUDoperations](https://github.com/sfragkiadakhs/APIwithCRUDoperations)**: Java / Spring Boot REST API with JPA/Hibernate and MySQL
+- **[BackInTimeMVC](https://github.com/sfragkiadakhs/BackInTimeMVC)**: turn-based board game in Unity/C# using the MVC pattern
+- **[WebChatroom](https://github.com/sfragkiadakhs/WebChatroom)**: real-time text and video chat (WebSockets, WebRTC)
 
-## Currently Learning
-- C#/.NET ecosystem
-- Linux administration
-- Docker & CI/CD fundamentals
-- LLM engineering (Zoomcamp)
-- German language (B1 → B2)
+## Tech
+**Used professionally:** Python, Rasa, Docker, Linux, Git
+**Projects:** Java, Spring Boot, SQL (MySQL, PostgreSQL), JavaScript/Node.js, C#, RAG/LLM applications
+**Learning:** C#/.NET, CI/CD, Linux administration
 
-Heidenheim an der Brenz, Germany
+## Contact
+[LinkedIn](https://www.linkedin.com/in/stylianos-fragkiadakis/)
