@@ -16,9 +16,9 @@ Open to **junior backend, database and API-driven roles** in Germany.
 - **[WebChatroom](https://github.com/sfragkiadakhs/WebChatroom)**: real-time text and video chat (WebSockets, WebRTC)
 
 ## Tech
-**Used professionally:** Python, Rasa, Docker, Linux, Git
-**Projects:** Java, Spring Boot, SQL (MySQL, PostgreSQL), JavaScript/Node.js, C#, RAG/LLM applications
-**Learning:** C#/.NET, CI/CD, Linux administration
+- **Used professionally:** Python, Rasa, Docker, Linux, Git
+- **Projects:** Java, Spring Boot, SQL (MySQL, PostgreSQL), JavaScript/Node.js, C#, RAG/LLM applications
+- **Learning:** C#/.NET, CI/CD, Linux administration
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/stylianos-fragkiadakis/)
